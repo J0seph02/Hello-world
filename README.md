@@ -1,2 +1,2 @@
-# Hello-world
-  Este foi meu primeiro "hello world!" utilizando a linguagem C.
+# Hello Woeld!
+  Este foi meu primeiro "Hello World!" utilizando a linguagem C.
